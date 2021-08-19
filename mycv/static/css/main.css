@@ -2206,9 +2206,9 @@ small {
   font-size: 60%; }
 
 a {
-  color: #378C3F; }
+  color:mediumpurple; }
   a:hover, a:focus {
-    color: #378C3F; }
+    color:mediumvioletred; }
 
 h1, .h1 {
   font-size: 3.5em;
